@@ -20,8 +20,8 @@ image: 背景图片，尺寸必须为**1280\*720**
 filter: 对话框背景，**目前请留空**。因为代码中该图像放置在背景中的坐标是固定的。
 - text: The content of text box. Use \\n to make newline (**Line spacing not perfect now**)<br>
 text: 对话框的内容。使用\\n来起新行（**但是现在行距不匹配**）
-- ttf: Font file. (Default: SourceHanSans Medium)<br>
-ttf: 字体文件。（默认为思源黑体 Medium）
+- ttf: Font file. (Default: SourceHanSans-Medium.otf) (Not included in this repo due to file size)<br>
+ttf: 字体文件。（默认为思源黑体 Medium）（由于文件尺寸，没有放在此repo里）
 
 ## Known Problems and TODO 已知问题和需要改进的地方
 Which mentioned in the above is almost the all. And...<br>基本上就是上面说到的那些，以及……
