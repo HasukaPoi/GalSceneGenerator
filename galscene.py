@@ -14,6 +14,7 @@ def gen(image="default/udx.png",filter="default/filter50.png",text="久ぶりに
     d.text((295,562),text,font=font,fill=(255,255,255,255)) #设置文字
     baseIm=Image.alpha_composite(baseIm,txtLayer) #写入行1
     # d.text((295,562),text,font=font,fill=(255,255,255,255))
+	# 。。。。。
     baseIm.save("out.png","PNG") #保存文件
 	
 
