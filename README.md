@@ -2,6 +2,10 @@
 A tool to fast generate a galgame-liked picture, wrote by python.<br>
 一个使用Python编写的能够快速生成类似于GalGame游戏画面的图片的工具。
 
+## Update Footprint 升级足迹
+- 2018/3/10: 本项目诞生并产生第一份代码
+- 2018/3/15: 加入本栏目
+
 ## How to Use 如何使用
 1. Make sure that python and pip installed. <br>确认你的机器上安装了Python和pip。
 1. Run ```pip install pillow``` to install PIL.<br>运行上面那条命令来安装PIL库。
